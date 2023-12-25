@@ -21,7 +21,7 @@ var expect = function(val) {
     }
 
     return {
-        toBe, notToBe;
+        toBe, notToBe
     }
 };
 
